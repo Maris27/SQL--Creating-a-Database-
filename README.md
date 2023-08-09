@@ -6,7 +6,7 @@ A database is a structured collection of data that is organized and stored in a 
 
 1. Create a database
 2. Create Tables (STUDENT RECORD,HEALTH RECORD, PERFORMANCE ) and also insert values
-
+3. Adding constraints not null to Subject and Student_ID
 
 # ACTIVITIES
 
@@ -44,4 +44,16 @@ VALUES (1, 'MALE', 'ROBINSON', 34, 'MATHS'),
 
 
 ![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/4039a68f-be8f-4ac1-abab-c803483327cd)
+
+
+
+Adding Constraints to our columns 
+_ Constraints are used to specify rules for data in a table, we added the not null constraints to our column STUDENT_ID and SUBJECT
+
+
+![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/941a644e-3f28-40c1-b529-edc2ee8a1918)
+
+
+
+
 
