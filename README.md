@@ -72,7 +72,8 @@ _ Constraints are used to specify rules for data in a table, we added the not nu
 
 **STEP 4** Change column name
 
-![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/997bde9e-552c-44be-8ec9-a8a0dd0356a5)
+![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/398f98ac-0665-4ad0-bb95-59dd6a8999c5)
+
 
 
 
