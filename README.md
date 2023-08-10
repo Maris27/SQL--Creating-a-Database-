@@ -136,7 +136,9 @@ The first thing i did was to  download the Employee data from the source and i c
 # ACTIVITY 4(USING THE SALARY TABLE) importing this into the database.
 
 SALARY TABLE
+
 ![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/2fd34c55-55c4-4ac2-ae96-3d23f04b8c84)
+
 
 
 
@@ -152,6 +154,26 @@ SALARY TABLE
 
 
 
+# TASK 3
+
+# QUESTION (Using the Employee Table)
+1.What is the total number of employees in our employee table?
+2.Find out the Top 5 cities with the highest number number of employees ,and filter the result to show cities with more than 15 employees
+3.Find out the most used pin code by the employee.
+
+
+# ACTIVITY 1
+
+
+![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/6c7f4adc-da30-45d1-8c0c-30666a04c312)
 
 
 
+
+# ACTIVITY 2
+
+
+
+
+
+# ACTIVITY 3
