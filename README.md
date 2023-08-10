@@ -14,9 +14,16 @@ A database is a structured collection of data that is organized and stored in a 
 
 ![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/f232d83f-ff46-4e09-883f-e8a4e853a882)
 
+
+
+
+
+
 **STEP 1** Above is the surface of our ssms , so to create a database i clicked on New query on the top part of the page then my next action was i entered the syntax which is =CREATE DATABASE database_name; then i highlighted and excute. below is the result 
 
 ![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/6d898951-f690-42d8-9513-06c617b6c2f6)
+
+
 
 
 
@@ -50,6 +57,8 @@ VALUES (1, 'MALE', 'ROBINSON', 34, 'MATHS'),
 
 
 
+
+
 **STEP 3** Adding Constraints to our columns 
 _ Constraints are used to specify rules for data in a table, we added the not null constraints to our column STUDENT_ID and SUBJECT
 
@@ -58,9 +67,16 @@ _ Constraints are used to specify rules for data in a table, we added the not nu
 
 
 
+
+
+
 **STEP 4** Change column name
 
 ![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/997bde9e-552c-44be-8ec9-a8a0dd0356a5)
+
+
+
+
 
 
 
@@ -92,15 +108,23 @@ The first thing i did was to  download the Employee data from the source and i c
 
 
 
-# ACTIVITIES
+# ACTIVITY 1
 
 ![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/1ef13f6a-c562-4359-9012-2ead403570cc)
 
 
 
+
+# ACTIVITY 2
+
+
 ![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/53282a5d-b27d-4d45-a11d-8286ca13341d)
 
 
+
+
+
+# ACTIVITY 3
 
 
 ![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/d071421f-bbfc-405b-88fa-3c878aa2ab72)
@@ -109,8 +133,17 @@ The first thing i did was to  download the Employee data from the source and i c
 
 
 
+# ACTIVITY 4(USING THE SALARY TABLE) importing this into the database.
+
+SALARY TABLE
+![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/2fd34c55-55c4-4ac2-ae96-3d23f04b8c84)
 
 
+
+
+
+
+![image](https://github.com/Maris27/SQL--Creating-a-Database-/assets/140453106/dddbfcb7-9608-40e4-8a4a-1e69979fca47)
 
 
 
