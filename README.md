@@ -158,7 +158,9 @@ SALARY TABLE
 
 # QUESTION (Using the Employee Table)
 1.What is the total number of employees in our employee table?
+
 2.Find out the Top 5 cities with the highest number number of employees ,and filter the result to show cities with more than 15 employees
+
 3.Find out the most used pin code by the employee.
 
 
